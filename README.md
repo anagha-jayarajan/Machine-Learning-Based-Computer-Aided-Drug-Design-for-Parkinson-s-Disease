@@ -174,24 +174,7 @@ The predicted IC50 values are calculated from predicted pIC50 values and are **n
 - **Scikit-learn** — preprocessing, regression, cross-validation and evaluation
 - **Google Colab** — notebook execution environment
 
-## Repository Structure
 
-Suggested structure for publishing the project:
-
-```text
-parkinsons-cadd-lrrk2/
-├── README.md
-├── Parkinsons_Disease_project_CADD.ipynb
-├── data/
-│   └── README.md
-├── results/
-│   ├── fda_drug_predictions.csv
-│   ├── feature_importance_padel.png
-│   └── correlation_heatmap_filtered.png
-└── requirements.txt
-```
-
-This is a suggested structure. Include only files and results that you have generated and verified. Check the dataset’s terms before redistributing it.
 
 ## How to Run the Project
 
